@@ -1,2 +1,2 @@
-# goit-js-hw-06
-JavaScript Homework #1
+# JavaScript Homework #1
+https://maluszkin.github.io/goit-js-hw-06/
